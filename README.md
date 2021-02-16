@@ -5,6 +5,7 @@ The next repository includes two exercises where data science abilities were use
 ## X-files Problem
 The X-files is a problem used for practicing the abilities in data loading, cleaning and descriptive analysis. 
 It was based on a dataset of UFO apperance of all around the world, and the goal of the problem was to identify a ranking of the places where UFOs have apperared with more frequency.
+![UFO locations](https://github.com/jeasusav10/IM-Automation/blob/main/X-Files%20Problem/UFO_locations.jpg?raw=true)
 
 The results were presented on the code, however, the summary is the following. 
 Based on the information above, the top 10 locations where it is more probable to find UFO appearances are:
@@ -19,6 +20,8 @@ Based on the information above, the top 10 locations where it is more probable t
 - Houston 
 - Conway
 
+![US Cities](https://github.com/jeasusav10/IM-Automation/blob/main/X-Files%20Problem/US_cities.jpg?raw=true)
+
 All of them are inside USA, in case it is desired to travel abroad, the top ten cities are:
 - Spittafields (CAN)
 - Toronto (CAN)
@@ -30,6 +33,8 @@ All of them are inside USA, in case it is desired to travel abroad, the top ten 
 - Calgary (CAN)
 - Winnipeg (CAN)
 - Montréal (CAN)
+
+![Non-US Cities](https://github.com/jeasusav10/IM-Automation/blob/main/X-Files%20Problem/Cities_abroad.jpg?raw=true)
 
 
 ## Diamonds Problem
