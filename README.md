@@ -30,3 +30,11 @@ All of them are inside USA, in case it is desired to travel abroad, the top ten 
 - Calgary (CAN)
 - Winnipeg (CAN)
 - Montréal (CAN)
+
+
+## Diamonds Problem
+The Diamonds is problem is for showing modeling abilities.
+It was based on a datased of diamods an the goal was to predict the values of some 'stolen items'.
+
+The results were presented on the code, however, the summary is the following. 
+![Diamonds Predictions](https://github.com/jeasusav10/IM-Automation/blob/main/Lapidarist%20Problem/diamods_predictions.jpg?raw=true)
